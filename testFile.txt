@@ -1,0 +1,11 @@
+this is a test file just wantto chek how things are working
+
+this is in working directory and it needs to be pushed in the git repo --> first local repo then another repo
+
+so this is just a sample. I m also practicing typing with this so that I can type faster.
+
+but it takes time I dont know why is this happening but its crazy typing without looking at the keyboard.
+
+So now after local repo I need to push this in remote repo and after that i'll be deleting this file from the repo
+
+lets try
